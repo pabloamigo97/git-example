@@ -1,2 +1,7 @@
 Hello from Example1 !
+<<<<<<< HEAD
 A new feature was added!
+=======
+
+bug1 branch !
+>>>>>>> bug1
